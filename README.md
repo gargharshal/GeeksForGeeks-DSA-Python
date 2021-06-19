@@ -1,43 +1,30 @@
 # GeeksForGeeks-DSA-Python
 
-Week 1
+Week 1  
+● Day - 1: Analysis of Algorithm : Best, Average and Worst Case, Notation, Time and Space Complexity.  
+● Day - 2, 3, 4: List in Python: Average & Mean of list, slicing, reverse and rotation of List.  
+● Day - 5, 6: Hashing : Hashing function, collision, chaining, set and dictionary in python.  
+● Day – 7: Recursion : Applications, Tower of Hanoi, josephus problem and practice available problems.  
 
-• Day 1 : Analysis Of Algorithm : Asymptotic
-Analysis (Finding time and space complexities)
-• Day 2, 3 : List in Python : Working, Slicing,
-Comprehensions, Questions
-• Day 4, 5 : String : String Comparison,
-Formatted String, String Operation, Questions
-• Day 6: Searching : Binary Search, Questions
-Week 2
+Week 2  
+• Day-1, 2: Searching : Linear & Binary search, count Occurrence and Recursive binary Search.  
+• Day 3 & 4: Sorting : Bubble, Selection, Merge, Insertion, and Quick Sort with their analysis.  
+● Day 5 & 6: Linked List : Introduction, Application, Traversal, Search, Deletion, Sorting and Reverse of linked list.  
+● Day - 7: Circular Linked List : Advantages and Disadvantages, Traversal, Insertion and Deletion. Attempt Contest 1.  
 
-• Day 1, 2, 3 : Sorting : Bubble, Selection,
-Insertion, Merge Sort, Quick Sort, Lomuto
-Partition, Hoare's Partition ,Questions
-• Day 4, 5, 6 : Hashing : Different Types of Hashing
-Techniques, Collision resolution Techniques,
-Hashing Questions
-Week 3
+Week 3  
+● Day - 1 : Doubly Linked List : Advantages & Disadvantages, Insertion, and Deletion.  
+● Day – 2, 3: Stack : Applications, Implementation, Infix, Prefix, & Postfix evaluation.  
+● Day – 5, 6: Queue : Applications, Implementation, and practice available problems  
+● Day – 7: Attempt contest 2  
 
-• Day 1, 2: Recursion : Basic Recursion, Questions
-• Day 3, 4 : Linked List :Simple linked list,
-Implementation, Traverse, Search, Insert, Delete,
-Reverse
-• Day 5 : Circular Linked List : Traverse, Insert, Delete
-• Day 6 : Doubly Linked List : Insert, Delete, Reverse
+Week 4  
+● Day-1, 2, 3: Tree : Introduction, Application, Searching and practice available problems.  
+● Day – 4, 5, 6: Binary Search Tree : Introduction, Application, Searching and practice available problems.  
+● Day- 7: Attempt Contest 3.  
 
-Week 4
-
-• Day 1, 2 : Stack Operations,
-Implementation, Questions
-• Day 3 : Queues: Queue Operations, Implementation
-• Day 4 : Deque : Deque Operations, Implementation
-• Day 5, 6 : Trees : Tree Traversal, Binary
-Tree, Questions
-Week 5
-
-• Day 1, 2: Binary Search Tree : Search, Insert, Delete
-• Day 3, 4: Heap : Implementation, Insert ,Delete,
-Binary Heap (Extract Min and Heapify), Heapq
-• Day 5, 6: Graph : Representation, BFS, DFS and
-its applications.
+Week 5  
+● Day 1, 2 : Heap : Introduction, Implementation, Sorting and Build Heap.  
+● Day 3, 4, 5: Graph : Introduction, Representation, Application of DFS and BFS, solve available practice problems.  
+● Day 6: Attempt contest 4  
+● Day 7 onwards: Practise Must do interview questions for Data Structures and Algorithms.
